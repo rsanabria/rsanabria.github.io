@@ -1,7 +1,11 @@
-#Acordeon Git
+# Acordeon Git
 
 ## $ git init
 Inicializa un repositorio
+## $git status
+Nos muestra el estado actual de nuestro archivos
+## $git add <add> | -A
+Prepara un archivo para la nueva etapa
 
-## $ git status
-Nos muestra el estado actual de nuestros archivos en el repo.
+
+
